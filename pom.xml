@@ -1825,8 +1825,8 @@
         <axis2-transports.version.range>[2.0.0-wso2v38,3.0.0)</axis2-transports.version.range>
 
         <!-- Axiom Version -->
-        <axiom.version>1.2.11-wso2v16</axiom.version>
-        <axiom.wso2.version>1.2.11-wso2v16</axiom.wso2.version>
+        <axiom.version>1.2.11-wso2v30-SNAPSHOT</axiom.version>
+        <axiom.wso2.version>1.2.11-wso2v30-SNAPSHOT</axiom.wso2.version>
         <axiom.osgi.version.range>[1.2.11, 2.0.0)</axiom.osgi.version.range>
         <axiom.javax.mail.imp.pkg.version.range>[1.4.0, 2.0.0)</axiom.javax.mail.imp.pkg.version.range>
         <axiom.org.jaxen.imp.pkg.version.range>[1.1.1, 2.0.0)</axiom.org.jaxen.imp.pkg.version.range>

@@ -126,6 +126,9 @@
                             !org.wso2.carbon.identity.consent.mgt.internal,
                             org.wso2.carbon.identity.consent.mgt.*; version="${carbon.identity.package.export.version}",
                         </Export-Package>
+                        <Provide-Capability>
+                            osgi.service;objectClass=org.wso2.carbon.consent.mgt.core.PrivilegedConsentManager
+                        </Provide-Capability>
                     </instructions>
                 </configuration>
             </plugin>
